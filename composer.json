@@ -17,6 +17,7 @@
         "twig/twig":                 ">=1.9.1,<2.0-dev"
     },
     "replace": {
+        "smoya/asset-management-bundle": "dev-master",
         "smoya/AssetManagementBundle": "dev-master"
     },
     "autoload": {
